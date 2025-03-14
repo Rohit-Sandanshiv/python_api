@@ -1,0 +1,1022 @@
+2025-03-13 13:26:26,886 INFO python_app: Application started...
+2025-03-13 13:26:26,886 ERROR python_app: An error occurred!
+2025-03-13 13:27:20,356 INFO python_app: Application started...
+2025-03-13 13:27:20,356 ERROR python_app: An error occurred!
+2025-03-13 13:27:20,416 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 13:27:20,417 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 13:27:20,420 INFO werkzeug:  * Restarting with stat
+2025-03-13 13:27:23,065 INFO python_app: Application started...
+2025-03-13 13:27:23,065 ERROR python_app: An error occurred!
+2025-03-13 13:27:23,077 WARNING werkzeug:  * Debugger is active!
+2025-03-13 13:27:23,087 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 13:27:56,650 INFO python_app: Application started...
+2025-03-13 13:27:56,650 ERROR python_app: An error occurred!
+2025-03-13 13:27:56,695 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 13:27:56,696 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 13:27:56,697 INFO werkzeug:  * Restarting with stat
+2025-03-13 13:27:59,391 INFO python_app: Application started...
+2025-03-13 13:27:59,391 ERROR python_app: An error occurred!
+2025-03-13 13:27:59,403 WARNING werkzeug:  * Debugger is active!
+2025-03-13 13:27:59,413 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 13:28:06,455 INFO python_app: started...
+2025-03-13 13:28:06,475 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 13:28:06] "POST /consumer/insert HTTP/1.1" 200 -
+2025-03-13 13:30:46,527 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\consumer_post_bp.py', reloading
+2025-03-13 13:30:46,623 INFO werkzeug:  * Restarting with stat
+2025-03-13 13:30:49,568 INFO python_app: Application started...
+2025-03-13 13:30:49,568 ERROR python_app: An error occurred!
+2025-03-13 13:30:49,583 WARNING werkzeug:  * Debugger is active!
+2025-03-13 13:30:49,592 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 13:31:07,614 INFO python_app: Application started...
+2025-03-13 13:31:07,614 ERROR python_app: An error occurred!
+2025-03-13 13:31:07,662 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 13:31:07,662 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 13:31:07,664 INFO werkzeug:  * Restarting with stat
+2025-03-13 13:31:10,667 INFO python_app: Application started...
+2025-03-13 13:31:10,667 ERROR python_app: An error occurred!
+2025-03-13 13:31:10,682 WARNING werkzeug:  * Debugger is active!
+2025-03-13 13:31:10,694 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 13:31:12,623 INFO python_app: started...
+2025-03-13 13:31:12,657 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 13:31:12] "POST /consumer/insert HTTP/1.1" 200 -
+2025-03-13 13:31:23,129 INFO python_app: started...
+2025-03-13 13:31:23,153 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 13:31:23] "POST /consumer/insert HTTP/1.1" 200 -
+2025-03-13 13:32:28,014 INFO python_app: Application started...
+2025-03-13 13:32:28,014 ERROR python_app: An error occurred!
+2025-03-13 13:32:28,062 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 13:32:28,062 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 13:32:28,066 INFO werkzeug:  * Restarting with stat
+2025-03-13 13:32:30,760 INFO python_app: Application started...
+2025-03-13 13:32:30,760 ERROR python_app: An error occurred!
+2025-03-13 13:32:30,771 WARNING werkzeug:  * Debugger is active!
+2025-03-13 13:32:30,782 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 13:32:34,005 INFO python_app: started...
+2025-03-13 13:32:34,007 INFO python_app: Logger is initialized successfully.
+2025-03-13 13:32:34,041 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 13:32:34] "POST /consumer/insert HTTP/1.1" 200 -
+2025-03-13 13:33:38,656 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\app.py', reloading
+2025-03-13 13:33:38,766 INFO werkzeug:  * Restarting with stat
+2025-03-13 13:33:40,630 INFO python_app: Application started...
+2025-03-13 13:33:40,630 ERROR python_app: An error occurred!
+2025-03-13 14:05:43,146 INFO python_app: Application started...
+2025-03-13 14:05:43,147 ERROR python_app: An error occurred!
+2025-03-13 14:05:43,212 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 14:05:43,212 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 14:05:43,215 INFO werkzeug:  * Restarting with stat
+2025-03-13 14:05:45,538 INFO python_app: Application started...
+2025-03-13 14:05:45,538 ERROR python_app: An error occurred!
+2025-03-13 14:05:45,560 WARNING werkzeug:  * Debugger is active!
+2025-03-13 14:05:45,574 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 14:07:22,933 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 14:07:22] "[33mPOST /consumer/add_product HTTP/1.1[0m" 404 -
+2025-03-13 14:08:13,746 INFO python_app: started...
+2025-03-13 14:08:13,746 INFO python_app: Logger is initialized successfully...
+2025-03-13 14:08:13,750 INFO python_app: initializing apicall-7b0b8643-5c7e-441b-bca5-e6b2367bffa8 in DEV on 2025-03-13...
+2025-03-13 14:08:13,827 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 14:08:13] "[35m[1mPOST /product/add_product HTTP/1.1[0m" 201 -
+2025-03-13 14:11:21,375 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\add_product.py', reloading
+2025-03-13 14:11:21,506 INFO werkzeug:  * Restarting with stat
+2025-03-13 14:11:23,659 INFO python_app: Application started...
+2025-03-13 14:11:23,660 ERROR python_app: An error occurred!
+2025-03-13 14:11:23,675 WARNING werkzeug:  * Debugger is active!
+2025-03-13 14:11:23,682 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:07:33,259 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\app.py', reloading
+2025-03-13 16:07:33,367 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:07:36,573 INFO python_app: Application started...
+2025-03-13 16:07:36,574 ERROR python_app: An error occurred!
+2025-03-13 16:25:23,791 INFO python_app: Application started...
+2025-03-13 16:25:23,792 ERROR python_app: An error occurred!
+2025-03-13 16:25:23,878 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 16:25:23,879 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 16:25:23,882 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:25:26,691 INFO python_app: Application started...
+2025-03-13 16:25:26,692 ERROR python_app: An error occurred!
+2025-03-13 16:25:26,725 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:25:26,751 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:25:29,263 INFO python_app: started...
+2025-03-13 16:25:29,263 INFO python_app: Logger is initialized successfully.
+2025-03-13 16:25:29,270 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 16:25:29] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email=rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 500 -
+2025-03-13 16:25:41,129 INFO python_app: Application started...
+2025-03-13 16:25:41,131 ERROR python_app: An error occurred!
+2025-03-13 16:25:41,209 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 16:25:41,209 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 16:25:41,213 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:25:44,832 INFO python_app: Application started...
+2025-03-13 16:25:44,833 ERROR python_app: An error occurred!
+2025-03-13 16:25:44,875 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:25:44,909 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:25:45,385 INFO python_app: started...
+2025-03-13 16:25:45,385 INFO python_app: Logger is initialized successfully.
+2025-03-13 16:25:45,400 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 16:25:45] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email=rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 500 -
+2025-03-13 16:26:07,689 INFO python_app: started...
+2025-03-13 16:26:07,689 INFO python_app: Logger is initialized successfully.
+2025-03-13 16:26:07,696 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 16:26:07] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email=rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 500 -
+2025-03-13 16:27:52,249 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:27:52,419 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:27:55,922 INFO python_app: Application started...
+2025-03-13 16:27:55,923 ERROR python_app: An error occurred!
+2025-03-13 16:28:06,301 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:28:06,322 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:30:24,554 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:30:24,688 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:30:28,706 INFO python_app: Application started...
+2025-03-13 16:30:28,706 ERROR python_app: An error occurred!
+2025-03-13 16:30:42,782 INFO python_app: Application started...
+2025-03-13 16:30:42,783 ERROR python_app: An error occurred!
+2025-03-13 16:31:33,829 INFO python_app: Application started...
+2025-03-13 16:31:33,829 ERROR python_app: An error occurred!
+2025-03-13 16:31:33,895 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 16:31:33,895 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 16:31:33,899 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:31:36,115 INFO python_app: Application started...
+2025-03-13 16:31:36,115 ERROR python_app: An error occurred!
+2025-03-13 16:31:36,136 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:31:36,150 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:31:36,294 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 16:31:36] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email=rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-13 16:33:06,772 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:33:06,959 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:33:09,494 INFO python_app: Application started...
+2025-03-13 16:33:09,494 ERROR python_app: An error occurred!
+2025-03-13 16:33:09,515 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:33:09,524 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:33:21,355 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:33:21,467 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:33:23,989 INFO python_app: Application started...
+2025-03-13 16:33:23,989 ERROR python_app: An error occurred!
+2025-03-13 16:33:24,009 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:33:24,017 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:33:40,718 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:33:40,821 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:33:43,400 INFO python_app: Application started...
+2025-03-13 16:33:43,401 ERROR python_app: An error occurred!
+2025-03-13 16:33:43,417 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:33:43,425 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:33:49,462 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:33:49,562 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:33:52,481 INFO python_app: Application started...
+2025-03-13 16:33:52,482 ERROR python_app: An error occurred!
+2025-03-13 16:33:52,512 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:33:52,525 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:34:05,486 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:34:05,655 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:34:10,544 INFO python_app: Application started...
+2025-03-13 16:34:10,545 ERROR python_app: An error occurred!
+2025-03-13 16:34:10,601 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 16:34:10,602 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 16:34:10,605 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:34:13,831 INFO python_app: Application started...
+2025-03-13 16:34:13,832 ERROR python_app: An error occurred!
+2025-03-13 16:34:13,880 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:34:13,903 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:34:18,296 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 16:34:18] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email=rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-13 16:35:16,377 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:35:16,512 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:35:19,292 INFO python_app: Application started...
+2025-03-13 16:35:19,292 ERROR python_app: An error occurred!
+2025-03-13 16:35:19,324 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:35:19,337 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:35:27,574 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:35:27,685 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:35:29,828 INFO python_app: Application started...
+2025-03-13 16:35:29,828 ERROR python_app: An error occurred!
+2025-03-13 16:54:41,865 INFO python_app: Application started...
+2025-03-13 16:54:41,865 ERROR python_app: An error occurred!
+2025-03-13 16:54:41,913 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 16:54:41,914 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 16:54:41,916 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:54:43,882 INFO python_app: Application started...
+2025-03-13 16:54:43,882 ERROR python_app: An error occurred!
+2025-03-13 16:54:43,894 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:54:43,901 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:55:33,136 INFO python_app: started...
+2025-03-13 16:55:33,136 INFO python_app: Logger is initialized successfully.
+2025-03-13 16:55:33,136 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 16:55:33] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email=rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-13 16:56:03,835 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:56:03,949 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:56:05,979 INFO python_app: Application started...
+2025-03-13 16:56:05,980 ERROR python_app: An error occurred!
+2025-03-13 16:56:06,000 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:56:06,008 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:56:08,440 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:56:08,533 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:56:10,839 INFO python_app: Application started...
+2025-03-13 16:56:10,840 ERROR python_app: An error occurred!
+2025-03-13 16:56:10,867 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:56:10,875 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:56:13,427 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:56:13,542 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:56:15,412 INFO python_app: Application started...
+2025-03-13 16:56:15,412 ERROR python_app: An error occurred!
+2025-03-13 16:56:15,429 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:56:15,438 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:56:54,643 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:56:54,740 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:56:56,790 INFO python_app: Application started...
+2025-03-13 16:56:56,791 ERROR python_app: An error occurred!
+2025-03-13 16:56:56,815 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:56:56,824 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:57:02,711 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:57:02,821 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:57:04,824 INFO python_app: Application started...
+2025-03-13 16:57:04,824 ERROR python_app: An error occurred!
+2025-03-13 16:57:04,842 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:57:04,849 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:57:16,213 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:57:16,311 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:57:18,455 INFO python_app: Application started...
+2025-03-13 16:57:18,455 ERROR python_app: An error occurred!
+2025-03-13 16:57:18,480 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:57:18,489 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:57:24,336 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:57:24,431 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:57:26,584 INFO python_app: Application started...
+2025-03-13 16:57:26,584 ERROR python_app: An error occurred!
+2025-03-13 16:57:26,602 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:57:26,609 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:57:31,270 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:57:31,368 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:57:33,270 INFO python_app: Application started...
+2025-03-13 16:57:33,270 ERROR python_app: An error occurred!
+2025-03-13 16:57:33,296 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:57:33,306 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:57:38,048 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:57:38,142 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:57:40,146 INFO python_app: Application started...
+2025-03-13 16:57:40,146 ERROR python_app: An error occurred!
+2025-03-13 16:57:40,166 WARNING werkzeug:  * Debugger is active!
+2025-03-13 16:57:40,176 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 16:58:11,885 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-13 16:58:12,012 INFO werkzeug:  * Restarting with stat
+2025-03-13 16:58:13,813 INFO python_app: Application started...
+2025-03-13 16:58:13,814 ERROR python_app: An error occurred!
+2025-03-13 17:18:01,641 INFO python_app: Application started...
+2025-03-13 17:18:01,641 ERROR python_app: An error occurred!
+2025-03-13 17:18:01,697 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 17:18:01,697 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 17:18:01,700 INFO werkzeug:  * Restarting with stat
+2025-03-13 17:18:03,565 INFO python_app: Application started...
+2025-03-13 17:18:03,566 ERROR python_app: An error occurred!
+2025-03-13 17:18:03,579 WARNING werkzeug:  * Debugger is active!
+2025-03-13 17:18:03,586 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 17:18:03,707 INFO python_app: started...
+2025-03-13 17:18:03,708 INFO python_app: Logger is initialized successfully.
+2025-03-13 17:18:03,708 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 17:18:03] "[33mGET /consumer/get?criteria= HTTP/1.1[0m" 404 -
+2025-03-13 17:18:09,079 INFO python_app: started...
+2025-03-13 17:18:09,079 INFO python_app: Logger is initialized successfully.
+2025-03-13 17:18:09,085 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 17:18:09] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email=rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 500 -
+2025-03-13 17:19:22,919 INFO python_app: started...
+2025-03-13 17:19:22,919 INFO python_app: Logger is initialized successfully.
+2025-03-13 17:19:22,922 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 17:19:22] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 500 -
+2025-03-13 17:20:17,901 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-13 17:20:18,038 INFO werkzeug:  * Restarting with stat
+2025-03-13 17:20:20,064 INFO python_app: Application started...
+2025-03-13 17:20:20,064 ERROR python_app: An error occurred!
+2025-03-13 17:20:20,083 WARNING werkzeug:  * Debugger is active!
+2025-03-13 17:20:20,090 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 17:20:25,401 INFO python_app: started...
+2025-03-13 17:20:25,402 INFO python_app: Logger is initialized successfully.
+2025-03-13 17:20:25,407 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 17:20:25] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 500 -
+2025-03-13 17:21:08,650 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-13 17:21:08,750 INFO werkzeug:  * Restarting with stat
+2025-03-13 17:21:10,717 INFO python_app: Application started...
+2025-03-13 17:21:10,717 ERROR python_app: An error occurred!
+2025-03-13 17:21:10,732 WARNING werkzeug:  * Debugger is active!
+2025-03-13 17:21:10,739 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 17:21:10,848 INFO python_app: started...
+2025-03-13 17:21:10,849 INFO python_app: Logger is initialized successfully.
+2025-03-13 17:21:10,849 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 17:21:10] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-13 17:21:55,733 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-13 17:21:55,829 INFO werkzeug:  * Restarting with stat
+2025-03-13 17:21:57,591 INFO python_app: Application started...
+2025-03-13 17:21:57,592 ERROR python_app: An error occurred!
+2025-03-13 17:21:57,609 WARNING werkzeug:  * Debugger is active!
+2025-03-13 17:21:57,616 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 17:22:36,825 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-13 17:22:36,913 INFO werkzeug:  * Restarting with stat
+2025-03-13 17:22:38,708 INFO python_app: Application started...
+2025-03-13 17:22:38,708 ERROR python_app: An error occurred!
+2025-03-13 17:22:38,726 WARNING werkzeug:  * Debugger is active!
+2025-03-13 17:22:38,732 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 17:22:38,925 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-13 17:22:39,028 INFO werkzeug:  * Restarting with stat
+2025-03-13 17:22:40,840 INFO python_app: Application started...
+2025-03-13 17:22:40,840 ERROR python_app: An error occurred!
+2025-03-13 17:24:18,022 INFO python_app: Application started...
+2025-03-13 17:24:18,023 ERROR python_app: An error occurred!
+2025-03-13 17:24:18,066 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 17:24:18,066 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 17:24:18,068 INFO werkzeug:  * Restarting with stat
+2025-03-13 17:24:20,077 INFO python_app: Application started...
+2025-03-13 17:24:20,078 ERROR python_app: An error occurred!
+2025-03-13 17:24:20,097 WARNING werkzeug:  * Debugger is active!
+2025-03-13 17:24:20,110 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 17:24:22,541 INFO python_app: started...
+2025-03-13 17:24:22,541 INFO python_app: Logger is initialized successfully.
+2025-03-13 17:24:22,542 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 17:24:22] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-13 17:25:41,164 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-13 17:25:41,256 INFO werkzeug:  * Restarting with stat
+2025-03-13 17:25:43,011 INFO python_app: Application started...
+2025-03-13 17:25:43,011 ERROR python_app: An error occurred!
+2025-03-13 17:26:06,734 INFO python_app: Application started...
+2025-03-13 17:26:06,735 ERROR python_app: An error occurred!
+2025-03-13 17:26:06,800 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 17:26:06,801 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 17:26:06,803 INFO werkzeug:  * Restarting with stat
+2025-03-13 17:26:08,630 INFO python_app: Application started...
+2025-03-13 17:26:08,630 ERROR python_app: An error occurred!
+2025-03-13 17:26:08,642 WARNING werkzeug:  * Debugger is active!
+2025-03-13 17:26:08,649 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 17:26:08,765 INFO python_app: started...
+2025-03-13 17:26:08,766 INFO python_app: Logger is initialized successfully.
+2025-03-13 17:26:08,767 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 17:26:08] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-13 17:26:37,289 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-13 17:26:37,385 INFO werkzeug:  * Restarting with stat
+2025-03-13 17:26:39,250 INFO python_app: Application started...
+2025-03-13 17:26:39,251 ERROR python_app: An error occurred!
+2025-03-13 23:26:17,517 INFO python_app: Application started...
+2025-03-13 23:26:17,519 ERROR python_app: An error occurred!
+2025-03-13 23:26:17,677 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 23:26:17,678 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 23:26:17,684 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:26:23,695 INFO python_app: Application started...
+2025-03-13 23:26:23,696 ERROR python_app: An error occurred!
+2025-03-13 23:26:35,461 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 23:26:35,462 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 23:26:35,474 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:26:39,046 INFO python_app: Application started...
+2025-03-13 23:26:39,047 ERROR python_app: An error occurred!
+2025-03-13 23:26:51,652 INFO python_app: Application started...
+2025-03-13 23:26:51,653 ERROR python_app: An error occurred!
+2025-03-13 23:26:51,692 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 23:26:51,693 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 23:26:51,695 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:26:53,893 INFO python_app: Application started...
+2025-03-13 23:26:53,893 ERROR python_app: An error occurred!
+2025-03-13 23:26:53,905 WARNING werkzeug:  * Debugger is active!
+2025-03-13 23:26:53,928 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 23:27:15,149 INFO python_app: Application started...
+2025-03-13 23:27:15,150 ERROR python_app: An error occurred!
+2025-03-13 23:27:47,112 INFO python_app: Application started...
+2025-03-13 23:27:47,112 ERROR python_app: An error occurred!
+2025-03-13 23:27:47,147 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 23:27:47,147 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 23:27:47,149 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:27:49,316 INFO python_app: Application started...
+2025-03-13 23:27:49,317 ERROR python_app: An error occurred!
+2025-03-13 23:27:49,334 WARNING werkzeug:  * Debugger is active!
+2025-03-13 23:27:49,342 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 23:27:56,415 INFO python_app: started...
+2025-03-13 23:27:56,415 INFO python_app: Logger is initialized successfully.
+2025-03-13 23:27:56,429 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 23:27:56] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 500 -
+2025-03-13 23:28:21,363 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-13 23:28:21,538 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:28:23,866 INFO python_app: Application started...
+2025-03-13 23:28:23,866 ERROR python_app: An error occurred!
+2025-03-13 23:28:23,886 WARNING werkzeug:  * Debugger is active!
+2025-03-13 23:28:23,895 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 23:28:30,864 INFO python_app: Application started...
+2025-03-13 23:28:30,864 ERROR python_app: An error occurred!
+2025-03-13 23:28:30,908 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 23:28:30,908 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 23:28:30,910 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:28:33,488 INFO python_app: Application started...
+2025-03-13 23:28:33,488 ERROR python_app: An error occurred!
+2025-03-13 23:28:33,504 WARNING werkzeug:  * Debugger is active!
+2025-03-13 23:28:33,512 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 23:28:40,323 INFO python_app: started...
+2025-03-13 23:28:40,324 INFO python_app: Logger is initialized successfully.
+2025-03-13 23:28:40,328 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 23:28:40] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-13 23:29:33,102 INFO python_app: Application started...
+2025-03-13 23:29:33,103 ERROR python_app: An error occurred!
+2025-03-13 23:31:11,446 INFO python_app: Application started...
+2025-03-13 23:31:11,446 ERROR python_app: An error occurred!
+2025-03-13 23:31:11,499 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 23:31:11,500 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 23:31:11,503 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:31:13,532 INFO python_app: Application started...
+2025-03-13 23:31:13,532 ERROR python_app: An error occurred!
+2025-03-13 23:31:13,547 WARNING werkzeug:  * Debugger is active!
+2025-03-13 23:31:13,555 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 23:31:32,727 INFO python_app: started...
+2025-03-13 23:31:32,728 INFO python_app: Logger is initialized successfully.
+2025-03-13 23:31:32,731 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 23:31:32] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-13 23:36:20,694 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-13 23:36:20,827 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:36:24,099 INFO python_app: Application started...
+2025-03-13 23:36:24,099 ERROR python_app: An error occurred!
+2025-03-13 23:36:24,139 WARNING werkzeug:  * Debugger is active!
+2025-03-13 23:36:24,157 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 23:36:30,220 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-13 23:36:30,330 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:36:32,796 INFO python_app: Application started...
+2025-03-13 23:36:32,796 ERROR python_app: An error occurred!
+2025-03-13 23:36:32,826 WARNING werkzeug:  * Debugger is active!
+2025-03-13 23:36:32,839 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 23:36:50,508 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-13 23:36:50,647 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:36:53,331 INFO python_app: Application started...
+2025-03-13 23:36:53,331 ERROR python_app: An error occurred!
+2025-03-13 23:36:53,355 WARNING werkzeug:  * Debugger is active!
+2025-03-13 23:36:53,368 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 23:36:57,172 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-13 23:36:57,312 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:37:00,110 INFO python_app: Application started...
+2025-03-13 23:37:00,110 ERROR python_app: An error occurred!
+2025-03-13 23:37:58,364 INFO python_app: Application started...
+2025-03-13 23:37:58,364 ERROR python_app: An error occurred!
+2025-03-13 23:37:58,412 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 23:37:58,413 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 23:37:58,415 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:38:01,160 INFO python_app: Application started...
+2025-03-13 23:38:01,160 ERROR python_app: An error occurred!
+2025-03-13 23:38:01,174 WARNING werkzeug:  * Debugger is active!
+2025-03-13 23:38:01,182 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 23:38:05,402 INFO python_app: started...
+2025-03-13 23:38:05,402 INFO python_app: Logger is initialized successfully.
+2025-03-13 23:38:05,406 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 23:38:05] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-13 23:38:25,482 INFO python_app: Application started...
+2025-03-13 23:38:25,482 ERROR python_app: An error occurred!
+2025-03-13 23:38:25,523 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 23:38:25,523 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 23:38:25,525 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:38:27,476 INFO python_app: Application started...
+2025-03-13 23:38:27,477 ERROR python_app: An error occurred!
+2025-03-13 23:38:27,494 WARNING werkzeug:  * Debugger is active!
+2025-03-13 23:38:27,502 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 23:38:29,878 INFO python_app: started...
+2025-03-13 23:38:29,878 INFO python_app: Logger is initialized successfully.
+2025-03-13 23:38:29,882 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 23:38:29] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-13 23:38:57,896 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-13 23:38:57,991 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:38:59,897 INFO python_app: Application started...
+2025-03-13 23:38:59,897 ERROR python_app: An error occurred!
+2025-03-13 23:38:59,922 WARNING werkzeug:  * Debugger is active!
+2025-03-13 23:38:59,930 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 23:39:27,200 INFO python_app: Application started...
+2025-03-13 23:39:27,201 ERROR python_app: An error occurred!
+2025-03-13 23:39:27,245 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 23:39:27,246 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 23:39:27,248 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:39:29,440 INFO python_app: Application started...
+2025-03-13 23:39:29,440 ERROR python_app: An error occurred!
+2025-03-13 23:39:29,463 WARNING werkzeug:  * Debugger is active!
+2025-03-13 23:39:29,475 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-13 23:39:31,492 INFO python_app: started...
+2025-03-13 23:39:31,492 INFO python_app: Logger is initialized successfully.
+2025-03-13 23:39:31,496 INFO werkzeug: 127.0.0.1 - - [13/Mar/2025 23:39:31] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-13 23:41:21,572 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-13 23:41:21,667 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:41:23,735 INFO python_app: Application started...
+2025-03-13 23:41:23,735 ERROR python_app: An error occurred!
+2025-03-13 23:42:11,456 INFO python_app: Application started...
+2025-03-13 23:42:11,456 ERROR python_app: An error occurred!
+2025-03-13 23:42:11,495 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 23:42:11,496 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-13 23:42:11,500 INFO werkzeug:  * Restarting with stat
+2025-03-13 23:42:14,164 INFO python_app: Application started...
+2025-03-13 23:42:14,165 ERROR python_app: An error occurred!
+2025-03-13 23:42:14,179 WARNING werkzeug:  * Debugger is active!
+2025-03-13 23:42:14,190 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 00:20:19,077 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\sample\\sample.py', reloading
+2025-03-14 00:20:19,462 INFO werkzeug:  * Restarting with stat
+2025-03-14 09:52:23,531 INFO python_app: Application started...
+2025-03-14 09:52:23,532 ERROR python_app: An error occurred!
+2025-03-14 09:52:23,839 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-14 09:52:23,840 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-14 09:52:23,856 INFO werkzeug:  * Restarting with stat
+2025-03-14 09:52:27,047 INFO python_app: Application started...
+2025-03-14 09:52:27,048 ERROR python_app: An error occurred!
+2025-03-14 09:52:27,070 WARNING werkzeug:  * Debugger is active!
+2025-03-14 09:52:27,087 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 09:52:32,165 INFO python_app: started...
+2025-03-14 09:52:32,165 INFO python_app: Logger is initialized successfully.
+2025-03-14 09:52:32,194 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 09:52:32] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-14 10:07:42,433 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-14 10:07:42,730 INFO werkzeug:  * Restarting with stat
+2025-03-14 10:07:46,066 INFO python_app: Application started...
+2025-03-14 10:07:46,066 ERROR python_app: An error occurred!
+2025-03-14 10:30:00,583 INFO python_app: Application started...
+2025-03-14 10:30:00,583 ERROR python_app: An error occurred!
+2025-03-14 10:30:15,796 INFO python_app: Application started...
+2025-03-14 10:30:15,797 ERROR python_app: An error occurred!
+2025-03-14 10:30:15,877 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-14 10:30:15,877 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-14 10:30:15,882 INFO werkzeug:  * Restarting with stat
+2025-03-14 10:30:18,444 INFO python_app: Application started...
+2025-03-14 10:30:18,444 ERROR python_app: An error occurred!
+2025-03-14 10:30:18,471 WARNING werkzeug:  * Debugger is active!
+2025-03-14 10:30:18,498 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 10:30:21,029 INFO python_app: started...
+2025-03-14 10:30:21,030 INFO python_app: Logger is initialized successfully.
+2025-03-14 10:30:21,035 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 10:30:21] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-14 10:31:46,547 INFO python_app: started...
+2025-03-14 10:31:46,547 INFO python_app: Logger is initialized successfully.
+2025-03-14 10:31:46,551 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 10:31:46] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-14 10:32:46,252 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\mapping.py', reloading
+2025-03-14 10:32:46,354 INFO werkzeug:  * Restarting with stat
+2025-03-14 10:36:04,591 INFO python_app: Application started...
+2025-03-14 10:36:04,592 ERROR python_app: An error occurred!
+2025-03-14 10:36:04,701 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-14 10:36:04,701 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-14 10:36:04,706 INFO werkzeug:  * Restarting with stat
+2025-03-14 10:36:07,406 INFO python_app: Application started...
+2025-03-14 10:36:07,408 ERROR python_app: An error occurred!
+2025-03-14 10:36:07,430 WARNING werkzeug:  * Debugger is active!
+2025-03-14 10:36:07,446 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 10:36:09,405 INFO python_app: started...
+2025-03-14 10:36:09,406 INFO python_app: Logger is initialized successfully.
+2025-03-14 10:36:09,432 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 10:36:09] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-14 10:36:53,413 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\mapping.py', reloading
+2025-03-14 10:36:53,536 INFO werkzeug:  * Restarting with stat
+2025-03-14 10:36:56,232 INFO python_app: Application started...
+2025-03-14 10:36:56,232 ERROR python_app: An error occurred!
+2025-03-14 10:36:56,246 WARNING werkzeug:  * Debugger is active!
+2025-03-14 10:36:56,255 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 10:36:57,182 INFO python_app: started...
+2025-03-14 10:36:57,183 INFO python_app: Logger is initialized successfully.
+2025-03-14 10:36:57,186 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 10:36:57] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-14 10:37:48,555 INFO python_app: started...
+2025-03-14 10:37:48,555 INFO python_app: Logger is initialized successfully.
+2025-03-14 10:37:48,557 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 10:37:48] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969l HTTP/1.1[0m" 201 -
+2025-03-14 10:38:28,636 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\get_consumer.py', reloading
+2025-03-14 10:38:28,818 INFO werkzeug:  * Restarting with stat
+2025-03-14 10:38:31,030 INFO python_app: Application started...
+2025-03-14 10:38:31,030 ERROR python_app: An error occurred!
+2025-03-14 10:38:31,057 WARNING werkzeug:  * Debugger is active!
+2025-03-14 10:38:31,065 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 10:38:31,227 INFO python_app: started...
+2025-03-14 10:38:31,227 INFO python_app: Logger is initialized successfully.
+2025-03-14 10:38:31,231 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 10:38:31] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969l HTTP/1.1[0m" 201 -
+2025-03-14 10:39:39,893 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-14 10:39:39,987 INFO werkzeug:  * Restarting with stat
+2025-03-14 10:39:43,063 INFO python_app: Application started...
+2025-03-14 10:39:43,064 ERROR python_app: An error occurred!
+2025-03-14 10:40:50,039 INFO python_app: Application started...
+2025-03-14 10:40:50,039 ERROR python_app: An error occurred!
+2025-03-14 10:40:50,091 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-14 10:40:50,092 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-14 10:40:50,094 INFO werkzeug:  * Restarting with stat
+2025-03-14 10:40:52,090 INFO python_app: Application started...
+2025-03-14 10:40:52,090 ERROR python_app: An error occurred!
+2025-03-14 10:40:52,102 WARNING werkzeug:  * Debugger is active!
+2025-03-14 10:40:52,110 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 10:40:52,241 INFO python_app: started...
+2025-03-14 10:40:52,241 INFO python_app: Logger is initialized successfully.
+2025-03-14 10:40:52,243 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 10:40:52] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969l HTTP/1.1[0m" 500 -
+2025-03-14 10:42:57,173 INFO python_app: Application started...
+2025-03-14 10:42:57,173 ERROR python_app: An error occurred!
+2025-03-14 10:42:57,213 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-14 10:42:57,214 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-14 10:42:57,216 INFO werkzeug:  * Restarting with stat
+2025-03-14 10:43:00,046 INFO python_app: Application started...
+2025-03-14 10:43:00,046 ERROR python_app: An error occurred!
+2025-03-14 10:43:00,066 WARNING werkzeug:  * Debugger is active!
+2025-03-14 10:43:00,074 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 10:43:05,948 INFO python_app: started...
+2025-03-14 10:43:05,948 INFO python_app: Logger is initialized successfully.
+2025-03-14 10:43:05,952 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 10:43:05] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-14 10:43:53,559 INFO python_app: started...
+2025-03-14 10:43:53,559 INFO python_app: Logger is initialized successfully.
+2025-03-14 10:43:53,563 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 10:43:53] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com HTTP/1.1[0m" 201 -
+2025-03-14 10:43:59,115 INFO python_app: started...
+2025-03-14 10:43:59,115 INFO python_app: Logger is initialized successfully.
+2025-03-14 10:43:59,118 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 10:43:59] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001 HTTP/1.1[0m" 201 -
+2025-03-14 10:44:05,548 INFO python_app: started...
+2025-03-14 10:44:05,548 INFO python_app: Logger is initialized successfully.
+2025-03-14 10:44:05,549 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 10:44:05] "[33mGET /consumer/get HTTP/1.1[0m" 404 -
+2025-03-14 10:45:06,584 INFO python_app: Application started...
+2025-03-14 10:45:06,585 ERROR python_app: An error occurred!
+2025-03-14 10:45:06,656 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-14 10:45:06,657 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-14 10:45:06,659 INFO werkzeug:  * Restarting with stat
+2025-03-14 10:45:09,369 INFO python_app: Application started...
+2025-03-14 10:45:09,370 ERROR python_app: An error occurred!
+2025-03-14 10:45:09,382 WARNING werkzeug:  * Debugger is active!
+2025-03-14 10:45:09,391 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 10:58:12,217 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\logger.py', reloading
+2025-03-14 10:58:12,330 INFO werkzeug:  * Restarting with stat
+2025-03-14 10:58:15,017 WARNING werkzeug:  * Debugger is active!
+2025-03-14 10:58:15,035 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:01:36,888 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\Readme.md.py', reloading
+2025-03-14 11:01:37,034 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:01:39,369 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:01:39,377 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:09:13,754 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\practise.py', reloading
+2025-03-14 11:09:13,899 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:09:16,938 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:09:16,946 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:12:01,313 INFO python_app: started...
+2025-03-14 11:12:01,313 INFO python_app: Logger is initialized successfully...
+2025-03-14 11:12:01,316 INFO python_app: initializing apicall-d28f89a8-49eb-4590-beea-baf4a41b18ff in DEV on 2025-03-14...
+2025-03-14 11:12:01,324 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 11:12:01] "[35m[1mPOST /product/add_product HTTP/1.1[0m" 500 -
+2025-03-14 11:13:31,867 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 11:13:31] "[33mPOST /consumer/add_product HTTP/1.1[0m" 404 -
+2025-03-14 11:13:55,662 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 11:13:55] "[33mPOST /consumer/add_product HTTP/1.1[0m" 404 -
+2025-03-14 11:14:32,167 INFO python_app: started...
+2025-03-14 11:14:32,168 INFO python_app: Logger is initialized successfully...
+2025-03-14 11:14:32,168 INFO python_app: initializing apicall-92ba967c-429b-46d9-8112-4d65feb38415 in DEV on 2025-03-14...
+2025-03-14 11:14:32,194 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 11:14:32] "[35m[1mPOST /product/add_product HTTP/1.1[0m" 201 -
+2025-03-14 11:17:00,013 INFO python_app: started...
+2025-03-14 11:17:00,014 INFO python_app: Logger is initialized successfully.
+2025-03-14 11:17:00,019 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 11:17:00] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-14 11:29:48,765 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:29:48,947 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:29:52,203 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:29:52,211 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:29:58,048 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:29:58,145 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:30:00,298 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:30:00,308 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:30:34,422 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:30:34,534 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:30:36,765 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:30:36,773 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:30:56,173 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:30:56,263 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:30:58,256 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:30:58,265 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:31:13,126 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:31:13,284 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:31:15,512 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:31:15,520 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:31:28,102 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:31:28,197 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:31:30,436 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:31:30,444 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:31:50,761 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:31:50,861 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:31:53,126 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:31:53,134 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:32:02,332 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:32:02,425 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:32:04,722 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:32:04,730 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:32:11,818 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:32:11,930 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:32:13,843 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:32:13,851 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:32:27,517 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:32:27,605 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:32:29,616 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:32:29,625 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:32:46,661 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:32:46,753 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:32:48,828 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:32:48,837 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:33:05,809 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:33:05,902 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:33:07,888 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:33:07,900 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:33:18,184 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:33:18,278 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:33:20,204 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:33:20,211 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:35:28,852 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:35:28,984 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:35:32,682 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:35:32,697 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:35:34,243 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:35:34,356 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:35:38,483 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:35:38,517 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:35:59,343 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:35:59,648 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:36:03,342 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:36:03,359 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:36:06,225 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:36:06,382 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:36:09,530 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:36:09,545 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:36:14,607 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:36:14,758 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:36:17,776 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:36:17,790 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:36:20,515 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:36:20,634 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:36:23,830 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:36:23,848 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:36:30,114 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:36:30,219 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:36:33,360 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:36:33,375 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:36:57,366 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:36:57,490 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:37:01,947 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:37:01,966 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:37:03,607 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:37:03,731 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:37:07,016 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:37:07,031 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:38:22,378 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:38:22,531 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:38:24,484 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:38:24,492 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:39:30,468 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:39:30,599 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:39:33,155 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:39:33,166 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:39:40,489 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:39:40,645 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:39:44,152 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:39:44,176 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:39:49,359 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:39:49,479 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:39:52,684 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:39:52,709 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:39:55,457 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:39:55,600 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:39:58,874 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:39:58,887 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:40:00,421 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:40:00,559 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:40:03,782 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:40:03,798 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:40:15,990 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:40:16,146 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:40:19,265 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:40:19,285 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:40:49,413 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:40:49,540 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:40:52,823 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:40:52,840 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:40:58,126 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:40:58,260 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:41:01,889 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:41:01,902 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:41:11,552 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:41:11,686 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:41:13,466 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:41:13,475 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:42:29,404 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:42:29,528 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:42:31,488 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:42:31,497 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:42:39,781 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:42:39,872 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:42:41,809 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:42:41,817 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:42:58,943 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:42:59,105 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:43:01,415 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:43:01,428 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:43:07,314 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:43:07,487 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:43:09,554 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:43:09,563 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:43:11,322 INFO python_app: started...
+2025-03-14 11:43:11,324 INFO python_app: Logger is initialized successfully.
+2025-03-14 11:43:11,388 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 11:43:11] "[35m[1mPOST /consumer/insert HTTP/1.1[0m" 201 -
+2025-03-14 11:43:11,397 INFO python_app: started...
+2025-03-14 11:43:11,397 INFO python_app: Logger is initialized successfully.
+2025-03-14 11:43:11,424 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 11:43:11] "POST /consumer/insert HTTP/1.1" 200 -
+2025-03-14 11:43:11,434 INFO python_app: started...
+2025-03-14 11:43:11,434 INFO python_app: Logger is initialized successfully...
+2025-03-14 11:43:11,434 INFO python_app: initializing apicall-8ba0b22e-6873-478b-a5a8-ff40a16358cc in DEV on 2025-03-14...
+2025-03-14 11:43:11,459 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 11:43:11] "[35m[1mPOST /product/add_product HTTP/1.1[0m" 201 -
+2025-03-14 11:43:11,469 INFO python_app: started...
+2025-03-14 11:43:11,470 INFO python_app: Logger is initialized successfully.
+2025-03-14 11:43:11,473 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 11:43:11] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-14 11:43:36,825 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\practise.py', reloading
+2025-03-14 11:43:36,950 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:43:38,918 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:43:38,930 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:44:23,938 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\practise.py', reloading
+2025-03-14 11:44:24,029 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:44:25,810 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:44:25,817 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:44:27,150 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\practise.py', reloading
+2025-03-14 11:44:27,238 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:44:29,566 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:44:29,573 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:44:39,872 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\practise.py', reloading
+2025-03-14 11:44:40,107 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:44:42,223 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:44:42,231 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:44:48,078 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\practise.py', reloading
+2025-03-14 11:44:48,182 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:44:50,115 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:44:50,125 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:44:54,836 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\practise.py', reloading
+2025-03-14 11:44:54,935 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:44:57,091 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:44:57,099 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:45:05,033 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\practise.py', reloading
+2025-03-14 11:45:05,154 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:45:06,917 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:45:06,925 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:45:11,643 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\practise.py', reloading
+2025-03-14 11:45:11,752 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:45:13,635 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:45:13,643 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:45:26,076 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\practise.py', reloading
+2025-03-14 11:45:26,167 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:45:27,992 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:45:28,000 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:45:41,677 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\practise.py', reloading
+2025-03-14 11:45:41,763 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:45:43,580 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:45:43,592 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:46:32,986 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\practise.py', reloading
+2025-03-14 11:46:33,093 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:46:35,306 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:46:35,314 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:46:54,488 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\practise.py', reloading
+2025-03-14 11:46:54,578 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:46:56,966 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:46:56,974 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:47:15,736 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:47:15,829 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:47:18,593 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:47:18,603 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:47:20,056 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:47:20,158 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:47:22,520 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:47:22,531 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:47:36,308 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:47:36,434 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:47:38,527 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:47:38,540 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:47:44,448 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:47:44,542 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:47:46,976 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:47:46,985 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:47:55,098 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:47:55,223 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:47:57,569 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:47:57,578 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:48:01,314 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:48:01,447 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:48:04,456 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:48:04,465 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 11:48:55,381 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\request.py', reloading
+2025-03-14 11:48:55,496 INFO werkzeug:  * Restarting with stat
+2025-03-14 11:48:57,861 WARNING werkzeug:  * Debugger is active!
+2025-03-14 11:48:57,870 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:35:32,440 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-14 15:35:32,441 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-14 15:35:32,445 INFO werkzeug:  * Restarting with stat
+2025-03-14 15:35:34,673 WARNING werkzeug:  * Debugger is active!
+2025-03-14 15:35:34,688 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:35:47,770 INFO python_app: started...
+2025-03-14 15:35:47,773 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:35:47,806 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:35:47] "POST /consumer/insert HTTP/1.1" 200 -
+2025-03-14 15:36:18,085 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\test_api.py', reloading
+2025-03-14 15:36:18,205 INFO werkzeug:  * Restarting with stat
+2025-03-14 15:36:20,486 WARNING werkzeug:  * Debugger is active!
+2025-03-14 15:36:20,498 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:36:20,661 INFO python_app: started...
+2025-03-14 15:36:20,663 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:36:20,699 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:36:20] "[35m[1mPOST /consumer/insert HTTP/1.1[0m" 201 -
+2025-03-14 15:38:35,052 INFO python_app: started...
+2025-03-14 15:38:35,053 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:38:35,073 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:38:35] "POST /consumer/insert HTTP/1.1" 200 -
+2025-03-14 15:38:35,125 INFO python_app: started...
+2025-03-14 15:38:35,125 INFO python_app: Logger is initialized successfully...
+2025-03-14 15:38:35,126 INFO python_app: initializing apicall-3d57bcad-2e02-4448-b669-4ddb933d5779 in DEV on 2025-03-14...
+2025-03-14 15:38:35,127 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:38:35] "[35m[1mPOST /product/add_product HTTP/1.1[0m" 500 -
+2025-03-14 15:38:35,139 INFO python_app: started...
+2025-03-14 15:38:35,140 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:38:35,143 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:38:35] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-14 15:38:35,157 INFO python_app: started...
+2025-03-14 15:38:35,157 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:38:35,159 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:38:35] "[35m[1mGET /consumer/get?criteria=globalId:INVALID_ID HTTP/1.1[0m" 500 -
+2025-03-14 15:38:50,797 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-14 15:38:50,798 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-14 15:38:50,800 INFO werkzeug:  * Restarting with stat
+2025-03-14 15:38:53,593 WARNING werkzeug:  * Debugger is active!
+2025-03-14 15:38:53,602 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:38:56,799 INFO python_app: started...
+2025-03-14 15:38:56,800 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:38:56,825 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:38:56] "POST /consumer/insert HTTP/1.1" 200 -
+2025-03-14 15:38:56,869 INFO python_app: started...
+2025-03-14 15:38:56,869 INFO python_app: Logger is initialized successfully...
+2025-03-14 15:38:56,870 INFO python_app: initializing apicall-29836675-1e14-4c27-af1a-32b7ecbccba7 in DEV on 2025-03-14...
+2025-03-14 15:38:56,871 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:38:56] "[35m[1mPOST /product/add_product HTTP/1.1[0m" 500 -
+2025-03-14 15:38:56,888 INFO python_app: started...
+2025-03-14 15:38:56,888 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:38:56,890 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:38:56] "[35m[1mGET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1[0m" 201 -
+2025-03-14 15:38:56,906 INFO python_app: started...
+2025-03-14 15:38:56,906 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:38:56,908 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:38:56] "[35m[1mGET /consumer/get?criteria=globalId:INVALID_ID HTTP/1.1[0m" 500 -
+2025-03-14 15:39:28,026 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\test_api.py', reloading
+2025-03-14 15:39:28,119 INFO werkzeug:  * Restarting with stat
+2025-03-14 15:39:30,057 WARNING werkzeug:  * Debugger is active!
+2025-03-14 15:39:30,066 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:39:55,957 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\test_api.py', reloading
+2025-03-14 15:39:56,095 INFO werkzeug:  * Restarting with stat
+2025-03-14 15:39:58,347 WARNING werkzeug:  * Debugger is active!
+2025-03-14 15:39:58,356 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:40:33,665 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\test_api.py', reloading
+2025-03-14 15:40:33,759 INFO werkzeug:  * Restarting with stat
+2025-03-14 15:40:36,025 WARNING werkzeug:  * Debugger is active!
+2025-03-14 15:40:36,033 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:41:38,491 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-14 15:41:38,653 INFO werkzeug:  * Restarting with stat
+2025-03-14 15:41:40,599 WARNING werkzeug:  * Debugger is active!
+2025-03-14 15:41:40,606 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:42:08,713 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-14 15:42:08,803 INFO werkzeug:  * Restarting with stat
+2025-03-14 15:42:10,899 WARNING werkzeug:  * Debugger is active!
+2025-03-14 15:42:10,908 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:42:11,031 INFO python_app: started...
+2025-03-14 15:42:11,032 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:42:11,069 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:42:11] "[35m[1mPOST /consumer/insert HTTP/1.1[0m" 201 -
+2025-03-14 15:42:11,077 INFO python_app: started...
+2025-03-14 15:42:11,078 INFO python_app: Logger is initialized successfully...
+2025-03-14 15:42:11,078 INFO python_app: initializing apicall-163c2f61-25ff-48e3-a057-7ac52a516c3d in DEV on 2025-03-14...
+2025-03-14 15:42:11,095 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:42:11] "[35m[1mPOST /product/add_product HTTP/1.1[0m" 201 -
+2025-03-14 15:42:11,104 INFO python_app: started...
+2025-03-14 15:42:11,104 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:42:11,107 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:42:11] "GET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1" 200 -
+2025-03-14 15:42:11,150 INFO python_app: started...
+2025-03-14 15:42:11,150 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:42:11,152 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:42:11] "[33mGET /consumer/get?criteria=globalId:INVALID_ID HTTP/1.1[0m" 404 -
+2025-03-14 15:42:41,372 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\test_api.py', reloading
+2025-03-14 15:42:41,467 INFO werkzeug:  * Restarting with stat
+2025-03-14 15:42:43,580 WARNING werkzeug:  * Debugger is active!
+2025-03-14 15:42:43,588 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:42:43,703 INFO python_app: started...
+2025-03-14 15:42:43,704 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:42:43,740 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:42:43] "[35m[1mPOST /consumer/insert HTTP/1.1[0m" 201 -
+2025-03-14 15:42:54,368 INFO python_app: started...
+2025-03-14 15:42:54,368 INFO python_app: Logger is initialized successfully...
+2025-03-14 15:42:54,368 INFO python_app: initializing apicall-fddfecc9-1373-4a67-a159-013b44617e9f in DEV on 2025-03-14...
+2025-03-14 15:42:54,370 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:42:54] "[35m[1mPOST /product/add_product HTTP/1.1[0m" 500 -
+2025-03-14 15:43:16,497 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\test_api.py', reloading
+2025-03-14 15:43:16,591 INFO werkzeug:  * Restarting with stat
+2025-03-14 15:43:18,616 WARNING werkzeug:  * Debugger is active!
+2025-03-14 15:43:18,625 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:43:22,885 INFO python_app: started...
+2025-03-14 15:43:22,885 INFO python_app: Logger is initialized successfully...
+2025-03-14 15:43:22,886 INFO python_app: initializing apicall-d8f9f8f1-0d9e-475c-ba2d-76d1f4eafa8f in DEV on 2025-03-14...
+2025-03-14 15:43:22,904 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:43:22] "[35m[1mPOST /product/add_product HTTP/1.1[0m" 201 -
+2025-03-14 15:43:36,028 INFO python_app: started...
+2025-03-14 15:43:36,028 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:43:36,031 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:43:36] "GET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1" 200 -
+2025-03-14 15:44:10,576 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-14 15:44:10,696 INFO werkzeug:  * Restarting with stat
+2025-03-14 15:44:13,043 WARNING werkzeug:  * Debugger is active!
+2025-03-14 15:44:13,051 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:44:23,681 INFO python_app: started...
+2025-03-14 15:44:23,682 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:44:23,684 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:44:23] "GET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1" 200 -
+2025-03-14 15:44:33,389 INFO python_app: started...
+2025-03-14 15:44:33,389 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:44:33,392 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:44:33] "[33mGET /consumer/get?criteria=globalId:INVALID_ID HTTP/1.1[0m" 404 -
+2025-03-14 15:45:19,649 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\get_consumer_bp.py', reloading
+2025-03-14 15:45:19,738 INFO werkzeug:  * Restarting with stat
+2025-03-14 15:45:21,901 WARNING werkzeug:  * Debugger is active!
+2025-03-14 15:45:21,909 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:45:24,633 INFO python_app: started...
+2025-03-14 15:45:24,635 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:45:24,678 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:45:24] "[35m[1mPOST /consumer/insert HTTP/1.1[0m" 201 -
+2025-03-14 15:45:24,687 INFO python_app: started...
+2025-03-14 15:45:24,687 INFO python_app: Logger is initialized successfully...
+2025-03-14 15:45:24,687 INFO python_app: initializing apicall-a2291cc8-94b1-4a61-8031-16e41ea2f0df in DEV on 2025-03-14...
+2025-03-14 15:45:24,726 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:45:24] "[35m[1mPOST /product/add_product HTTP/1.1[0m" 201 -
+2025-03-14 15:45:24,735 INFO python_app: started...
+2025-03-14 15:45:24,736 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:45:24,739 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:45:24] "GET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1" 200 -
+2025-03-14 15:45:24,752 INFO python_app: started...
+2025-03-14 15:45:24,752 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:45:24,754 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:45:24] "[33mGET /consumer/get?criteria=globalId:INVALID_ID HTTP/1.1[0m" 404 -
+2025-03-14 15:49:56,493 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\CREATE_DDL.py', reloading
+2025-03-14 15:49:56,595 INFO werkzeug:  * Restarting with stat
+2025-03-14 15:49:58,392 WARNING werkzeug:  * Debugger is active!
+2025-03-14 15:49:58,401 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:50:06,442 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\lib\\CREATE_DDL.py', reloading
+2025-03-14 15:50:06,577 INFO werkzeug:  * Restarting with stat
+2025-03-14 15:50:08,687 WARNING werkzeug:  * Debugger is active!
+2025-03-14 15:50:08,695 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:51:21,585 INFO werkzeug:  * Detected change in 'C:\\Users\\RSANDANS\\Downloads\\python_api_Project_pandas\\consumer_post_bp.py', reloading
+2025-03-14 15:51:21,677 INFO werkzeug:  * Restarting with stat
+2025-03-14 15:51:23,653 WARNING werkzeug:  * Debugger is active!
+2025-03-14 15:51:23,662 INFO werkzeug:  * Debugger PIN: 307-287-845
+2025-03-14 15:58:16,474 INFO python_app: started...
+2025-03-14 15:58:16,474 INFO python_app: Logger is initialized successfully.
+2025-03-14 15:58:16,480 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:58:16] "GET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1" 200 -

@@ -1,0 +1,55 @@
+# SQL injection happens when user input is directly embedded into a SQL query without proper sanitization.
+# Attackers exploit this by inserting malicious SQL code to manipulate or bypass database queries.
+#
+# ❌ Vulnerable Code (Without Parameterized Queries)
+
+def get_global_id(FirstName):
+    query = f"SELECT GlobalId FROM Consumer WHERE FirstName='{FirstName}'"
+    results = cursor.execute(query).fetchall()
+    return results[0][0] if results else None
+#
+# Here, the input FirstName is directly inserted into the query string.
+# If an attacker enters ' OR 1=1 --, the SQL query becomes:
+
+SELECT GlobalId FROM Consumer WHERE FirstName='' OR 1=1 --'
+
+# 1=1 is always true, so it fetches all records instead of just one.
+# -- comments out the rest of the query, ignoring any conditions.
+# Possible Attacks :-----
+# Attack Payload	                        Effect
+# ' OR 1=1 --	                            Returns all records
+# ' OR 'a'='a' --	                        Always returns data
+# ' ; DROP TABLE Consumer --	            Deletes the Consumer table
+# ' ; UPDATE Consumer SET is_active=0 --	Deactivates all users
+
+# How Parameterized Queries Prevent Injection
+# To fix this, use parameterized queries. Instead of formatting strings manually, placeholders (? for SQLite, %s for MySQL) ensure user input is not executable.
+
+# ✅ Safe Code (Using Parameterized Query)
+def get_global_id(FirstName):
+    query = "SELECT GlobalId FROM Consumer WHERE FirstName = ?"
+    results = cursor.execute(query, (FirstName,)).fetchall()
+    return results[0][0] if results else None
+
+# 🔍 Why This is Safe?
+# User input is treated as data, not code 🚀
+# SQL engine automatically escapes special characters (like ' and ;)
+# Injection attempts fail because the query structure is fixed and non-modifiable.
+# ow the SQL Query Works with Parameters
+# Let's say a user enters John:
+#
+# SELECT GlobalId FROM Consumer WHERE FirstName = 'John'
+# Works as expected! ✅
+# If an attacker enters ' OR 1=1 --, SQLite treats it as a string:
+#
+
+SELECT GlobalId FROM Consumer WHERE FirstName = ''' OR 1=1 --'
+
+This does not return all records because ' OR 1=1 -- is now a string.
+No SQL execution happens beyond expected behavior.
+Conclusion
+🚨 Always use parameterized queries to prevent SQL Injection.
+
+Never concatenate user input into SQL queries.
+Always sanitize and validate inputs.
+Use ORMs (like SQLAlchemy, Django ORM) for safer database interactions.
