@@ -53,8 +53,8 @@ python_api_project/
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/python_api_project_pandas.git
-   cd python_api_project_pandas
+   git clone https://github.com/Rohit-Sandanshiv/python_api.git
+   cd python_api
    ```
 2. Create and activate a virtual environment:
    ```sh
