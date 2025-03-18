@@ -53,4 +53,4 @@ Conclusion
 Never concatenate user input into SQL queries.
 Always sanitize and validate inputs.
 Use ORMs (like SQLAlchemy, Django ORM) for safer database interactions.
-------------------------------------End------------------------------------------------------------
+------------------------------------End-------------------------------------------------------------
