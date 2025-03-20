@@ -1020,3 +1020,12 @@
 2025-03-14 15:58:16,474 INFO python_app: started...
 2025-03-14 15:58:16,474 INFO python_app: Logger is initialized successfully.
 2025-03-14 15:58:16,480 INFO werkzeug: 127.0.0.1 - - [14/Mar/2025 15:58:16] "GET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1" 200 -
+2025-03-19 12:20:16,020 INFO werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-19 12:20:16,020 INFO werkzeug: [33mPress CTRL+C to quit[0m
+2025-03-19 12:20:16,022 INFO werkzeug:  * Restarting with stat
+2025-03-19 12:20:16,914 WARNING werkzeug:  * Debugger is active!
+2025-03-19 12:20:16,920 INFO werkzeug:  * Debugger PIN: 470-728-225
+2025-03-19 12:23:17,288 INFO python_app: started...
+2025-03-19 12:23:17,288 INFO python_app: Logger is initialized successfully.
+2025-03-19 12:23:17,292 INFO werkzeug: 127.0.0.1 - - [19/Mar/2025 12:23:17] "GET /consumer/get?criteria=globalId:GLOB-C0000001,email:rssandanshiv782000@gmail.com,Mobile:9049945969 HTTP/1.1" 200 -

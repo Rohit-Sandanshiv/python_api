@@ -3,7 +3,6 @@ import json
 import uuid
 import sys
 import datetime
-import pandas as pd
 from lib.process_all import insert_backend, update_backend
 from lib.utils import get_global_id
 from lib.logger import logger
